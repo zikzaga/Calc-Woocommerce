@@ -1,2 +1,22 @@
-# Calc-Woocommerce
-A plugin for displaying data from the formula for calculating the power of a product
+# Calc-WС
+
+__Calc-WС__ — это простой плагин для WooCommerce, позовляющий выводить формулу шорткодом.
+***
+
+## Использование
+
+Плагин работает по формуле:
+
+```
+ (x/30)/24=y
+
+ b/y=c
+```
+
+__Где, "b" задается внутри шорткода:__
+
+
+```
+[calculator b="10"]  // Калькулятор с b = 10
+```
+
