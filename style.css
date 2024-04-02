@@ -1,0 +1,36 @@
+.hidden {
+    display: none;
+}
+
+#hidden {
+    display: none;
+}
+
+#calculate-button {
+	padding: 2px 2px 2px 2px;
+	
+}
+
+.calculator-form {
+    margin-bottom: 20px;
+}
+
+.calculator-form label {
+
+    margin-bottom: 5px;
+}
+
+.calculator-form input[type="text"] {
+    width: 70%;
+    margin-bottom: 10px;
+}
+
+
+#calculator-results {
+    margin-top: 10px;
+}
+
+
+.c-result {
+    font-weight: bold;
+}
